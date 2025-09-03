@@ -20,7 +20,7 @@
             class="arrow before:absolute before:bg-[url(@/assets/icons/about-colors.png)] before:bg-size-[200px] lg:before:bg-auto before:bg-no-repeat before:top-0 lg:before:top-0 before:right-0 lg:before:right-[-330px] w-10 h-10 before:w-50 before:h-[80px] lg:before:w-full lg:before:h-full"
           ></span>
           <span
-            class="arrow before:absolute before:bg-[url(@/assets/icons/about-man.png)] before:bg-size-[120px] lg:before:bg-auto before:bg-no-repeat before:bottom-[-220px] before:left-10 lg:before:bottom-[-320px] lg:before:left-15 before:w-50 before:h-50 lg:before:w-full lg:before:h-full before:z-10"
+            class="arrow before:absolute before:bg-[url(@/assets/icons/about-man.png)] before:bg-size-[120px] lg:before:bg-auto before:bg-no-repeat before:bottom-[-140px] before:left-10 lg:before:bottom-[-320px] lg:before:left-15 before:w-50 before:h-50 lg:before:w-full lg:before:h-full before:z-10"
           ></span>
         </span>
       </div>

@@ -5,6 +5,7 @@ import About from "@/components/About.vue";
 import HowWeWork from "@/components/HowWeWork.vue";
 import Video from "@/components/Video.vue";
 import Featuries from "@/components/Featuries.vue";
+import LatestWork from "@/components/LatestWork.vue";
 </script>
 
 <template>
@@ -18,6 +19,9 @@ import Featuries from "@/components/Featuries.vue";
       <HowWeWork />
       <Video />
       <Featuries />
+    </div>
+    <div class="bg-gray-800 py-10">
+      <LatestWork />
     </div>
   </main>
 </template>
